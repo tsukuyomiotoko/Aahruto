@@ -1,3 +1,26 @@
 ### Hi there, I'm Tsukuyomi!
 
-![Tsukuyomi's github stats](https://github-readme-stats.vercel.app/api?username=tsukuyomiotoko&show_icons=true&theme=material-palenight)
+just a freelance developer who develops at [AmaterasuDev](https://github.com/AmaterasuDev) and [SakiyaDev](https://github.com/SakiyaDev).
+
+_____
+
+## Currently Working On:
+
+- [Rurikon Project](https://github.com/SakiyaDev/rurikon-project), a seasonal Discord bot
+- [Sasuke](https://discordservices.net/bot/707644970848354374), a versatile bot
+- And other random projects at [SakiyaDev](https://github.com/SakiyaDev) (mainly).
+
+_____
+
+## Contact Information
+
+- Discord: [Sasuke The Therapist#7872](https://discord.com/users/716466779836383243)
+- Email: [dev_tsukuyomi@protonmail.com](mailto:dev_tsukuyomi@protonmail.com)
+- Server: [.gg/sakiya](https://discord.gg/sakiya)
+
+_____
+
+## Statistics
+
+![](https://github.com/username/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/username/github-stats/blob/master/generated/languages.svg)
