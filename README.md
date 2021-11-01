@@ -22,5 +22,5 @@ _____
 
 ## Statistics
 
-<p align="left"><img href="https://github.com/tsukuyomiotoko/gt-stats/blob/master/generated/overview.svg"><p>
-<p align="right"><img href="https://github.com/tsukuyomiotoko/gt-stats/blob/master/generated/languages.svg"><p>
+![](https://github.com/tsukuyomiotoko/gt-stats/blob/master/generated/overview.svg)
+![](https://github.com/tsukuyomiotoko/gt-stats/blob/master/generated/languages.svg)
