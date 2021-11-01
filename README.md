@@ -1,4 +1,4 @@
-### Hi there, I'm Tsukuyomi!
+### Hi there, I'm Tsukuyomi!## Hi there, I'm Tsukuyomi!
 
 just a freelance developer who develops at [AmaterasuDev](https://github.com/AmaterasuDev) and [SakiyaDev](https://github.com/SakiyaDev).
 
@@ -22,5 +22,5 @@ _____
 
 ## Statistics
 
-![](https://github.com/username/github-stats/blob/master/generated/overview.svg)
-![](https://github.com/username/github-stats/blob/master/generated/languages.svg)
+![Overview](https://github.com/tsukuyomiotoko/gt-stats/blob/master/generated/overview.svg)
+![Languages](https://github.com/tsukuyomiotoko/gt-stats/blob/master/generated/languages.svg)
