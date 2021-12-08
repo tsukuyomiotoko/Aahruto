@@ -7,7 +7,7 @@ _____
 ## Currently Working On:
 
 - [Rurikon Project](https://github.com/SakiyaDev/rurikon-project), a seasonal Discord bot
-- [Sasuke](https://discordservices.net/bot/707644970848354374), a versatile bot
+- [Sasuke](https://discordservices.net/bot/707644970848354374), a versatile bot (Project Shutdowned)
 - And other random projects at [SakiyaDev](https://github.com/SakiyaDev) (mainly).
 
 _____
