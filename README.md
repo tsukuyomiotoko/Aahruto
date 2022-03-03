@@ -6,8 +6,7 @@ _____
 
 ## Currently Working On:
 
-- [Rurikon Project](https://github.com/SakiyaDev/rurikon-project), a seasonal Discord bot
-- [Sasuke](https://discordservices.net/bot/707644970848354374), a versatile bot (Project Shutdowned)
+- [Akari](https://top.gg/bot/881278261315895397) w/ [Emilia](https://github.com/EmiliaShiori), useful bot tbh (only contributing)
 - And other random projects at [SakiyaDev](https://github.com/SakiyaDev) (mainly).
 
 _____
@@ -16,7 +15,7 @@ _____
 
 - Discord: [Sasuke The Therapist#7872](https://discord.com/users/716466779836383243)
 - Email: [dev_tsukuyomi@protonmail.com](mailto:dev_tsukuyomi@protonmail.com)
-- Server: [.gg/sakiya](https://discord.gg/sakiya)
+- Server: [.gg/sakiya](https://discord.gg/ffyWU2hCBs)
 
 _____
 
