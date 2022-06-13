@@ -7,6 +7,7 @@ _____
 ## Currently Working On:
 
 - [Akari](https://top.gg/bot/881278261315895397) w/ [Emilia](https://github.com/EmiliaShiori), useful bot tbh (only contributing)
+     - [Akari's Website](https://akaribot.net/) w/ [Emilia](https://github.com/EmiliaShiori)
 - And other random projects at [SakiyaDev](https://github.com/SakiyaDev) (mainly).
 
 _____
