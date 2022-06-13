@@ -1,6 +1,6 @@
 ## Hi there, I'm Tsukuyomi!
 
-just a freelance developer who develops at [AmaterasuDev](https://github.com/AmaterasuDev) and [SakiyaDev](https://github.com/SakiyaDev).
+just a freelance developer who develops at [SakiyaDev](https://github.com/SakiyaDev).
 
 _____
 
