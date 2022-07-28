@@ -24,3 +24,11 @@ _____
 
 ![](https://raw.githubusercontent.com/tsukuyomiotoko/gt-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/tsukuyomiotoko/gt-stats/master/generated/languages.svg#gh-dark-mode-only)
+
+_____
+
+## Funny Badges
+
+[![forthebadge](https://forthebadge.com/images/badges/0-percent-optimized.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/works-on-my-machine.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/you-didnt-ask-for-this.svg)](https://forthebadge.com)
