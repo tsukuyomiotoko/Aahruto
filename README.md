@@ -1,4 +1,4 @@
-## Hi there, I'm Tsukuyomi!
+## Hi there, I'm Tsukuyomi/Arsène!
 
 just a freelance developer who develops at [SakiyaDev](https://github.com/SakiyaDev).
 
@@ -14,7 +14,7 @@ _____
 
 ## Contact Information
 
-- Discord: [Sasuke The Therapist#7872](https://discord.com/users/716466779836383243)
+- Discord: [Arsène#7872](https://discord.com/users/716466779836383243)
 - Email: [dev_tsukuyomi@protonmail.com](mailto:dev_tsukuyomi@protonmail.com)
 - Server: [.gg/sakiya](https://discord.gg/ffyWU2hCBs)
 
