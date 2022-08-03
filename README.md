@@ -36,5 +36,4 @@ _____
 
 ## To Make Your Stalking Easier... 
 
-[![Arsène](https://lanyard.cnrad.dev/api/831970480499589220)](https://discord.com/users/831970480499589220)
-
+[![Discord Presence](https://lanyard.cnrad.dev/api/716466779836383243)](https://discord.com/users/716466779836383243)
