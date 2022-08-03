@@ -24,6 +24,7 @@ _____
 
 ![](https://raw.githubusercontent.com/tsukuyomiotoko/gt-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/tsukuyomiotoko/gt-stats/master/generated/languages.svg#gh-dark-mode-only)
+![Hits](https://hits.link/hits?url=https%3A%2F%2Fgithub.com%2Ftsukuyomiotoko)
 
 _____
 
