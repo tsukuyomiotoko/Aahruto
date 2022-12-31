@@ -16,7 +16,7 @@ _____
 
 - Discord: [Arsène#7872](https://discord.com/users/716466779836383243)
 - Email: [dev_tsukuyomi@protonmail.com](mailto:dev_tsukuyomi@protonmail.com)
-- Server: [.gg/sakiya](https://discord.gg/ffyWU2hCBs)
+- Server: [.gg/akaribot](https://discord.gg/ffyWU2hCBs)
 
 _____
 
